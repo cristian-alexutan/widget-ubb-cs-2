@@ -26,7 +26,7 @@ Colectăm toate locurile de muncă de pe [peviitor.ro](https://peviitor.ro) și,
 După ce am făcut fork la repo, în conf/local_tag.md, în root, scriem tag-ul folosit de această facultate.
 Tot aici punem si sursa de unde isi va lua agentul materiile si va deduce si skillurile studentului.
 
-Formatul pentru local_tag.md este urmatorul:
+Formatul pentru local_tag.md este urmatorul:\
 TAG\
 sursa: exemplu.com
 
