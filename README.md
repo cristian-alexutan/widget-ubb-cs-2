@@ -27,7 +27,7 @@ După ce am făcut fork la repo, în conf/local_tag.md, în root, scriem tag-ul 
 Tot aici punem si sursa de unde isi va lua agentul materiile si va deduce si skillurile studentului.
 
 Formatul pentru local_tag.md este urmatorul:
-TAG
+TAG\
 sursa: exemplu.com
 
 ## Lista materii:
