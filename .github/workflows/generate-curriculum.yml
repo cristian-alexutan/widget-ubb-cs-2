@@ -36,12 +36,13 @@ jobs:
 
       - name: Commit si push curriculum
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add filter/
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
+            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
             TAG="${{ steps.parse.outputs.tag }}"
             git commit -m "auto: actualizeaza curriculum $TAG"
             git push
