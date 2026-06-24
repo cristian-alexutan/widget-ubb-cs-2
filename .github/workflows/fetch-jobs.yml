@@ -20,17 +20,17 @@ jobs:
       - name: Install opencode
         run: npm install -g opencode-ai@latest
 
-      - name: Run all agents
-        run: node scripts/fetch_agent_jobs.mjs --all
+      - name: Run fetch & match
+        run: node scripts/fetch_agent_jobs.mjs
 
-      - name: Commit & push next_jobs_*.json
+      - name: Commit & push jobs_100.json
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add next_jobs_*.json
+          git add jobs_100.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "auto: update next_jobs_* ($(date -u +%Y-%m-%d))"
+            git commit -m "auto: actualizeaza jobs_100.json ($(date -u +%Y-%m-%d))"
             git push
           fi

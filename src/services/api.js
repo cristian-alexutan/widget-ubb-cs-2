@@ -32,7 +32,7 @@ export async function getJobs() {
   let jobsData;
   try {
     const response = await fetch(
-      "https://raw.githubusercontent.com/peviitor-ro/ClujHackathon2026/refs/heads/main/jobs_100.json",
+      "https://raw.githubusercontent.com/cristian-alexutan/widget-ubb-cs-2/refs/heads/main/jobs_100.json",
     );
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
