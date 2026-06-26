@@ -14,7 +14,7 @@
     "f_tag": [
       "UBBFMI"
     ],
-    "matchPercentage": 80,
-    "reason": "Jobul e pentru junior QA automation cu Python. Din curriculum: programare Python, verificare/validare software, OOP, algoritmi. Se potrivește bine cu competențele unui student FMI UBB la nivel junior."
+    "matchPercentage": 70,
+    "reason": "Python și testare software sunt în curriculum (Software systems verification and validation). Ai fundamente solide de programare, dar missing skills specifice de QA automation (Selenium, pytest, CI/CD tools). Potrivit pentru un junior."
   }
 ]
