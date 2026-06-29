@@ -1,20 +1,20 @@
 [
   {
-    "url": "https://bytex.net/careers/qa-automation-python/",
-    "title": "Junior QA Auto Engineer (Python)",
-    "company": "Bytex",
+    "url": [
+      "https://assist-software.net/jobs/471/python-developer"
+    ],
+    "title": "Python Developer",
+    "company": "ASSIST SOFTWARE SRL",
     "location": [
-      "Iasi, Iasi, Romania"
+      "Suceava"
     ],
-    "salary": [
-      ""
-    ],
-    "date": "2026-06-07T00:00:00Z",
-    "status": "published",
+    "salary": null,
+    "date": "2026-06-29T10:53:53.847Z",
+    "status": "scraped",
     "f_tag": [
       "UBBFMI"
     ],
-    "matchPercentage": 70,
-    "reason": "Python și testare software sunt în curriculum (Software systems verification and validation). Ai fundamente solide de programare, dar missing skills specifice de QA automation (Selenium, pytest, CI/CD tools). Potrivit pentru un junior."
+    "matchPercentage": 85,
+    "reason": "Python este acoperit în programare și programare multi-paradigmă. AI-driven tech se potrivește cu AI, ML, Deep Learning, NLP, LLMs din curriculum. Este un rol junior/mid fezabil pentru un student FMI UBB."
   }
 ]
