@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "url": "https://devjob.ro/jobs/Xreacher-Python-Developer-for-AI-startup",
+    "title": "Python Developer for AI startup",
+    "company": "XREACHER",
+    "location": [
+      "Romania"
+    ],
+    "salary": [
+      "6000-12000 RON"
+    ],
+    "date": "2026-07-03T12:48:38.979Z",
+    "status": "scraped",
+    "f_tag": [
+      "UBBFMI"
+    ],
+    "matchPercentage": 80,
+    "reason": "Python si AI/ML sunt in curriculum (programare, AI, ML, Deep Learning). Backend se aliniaza cu programarea web si ingineria software. Nivel junior/mid este potrivit pentru un student. Salariul pare insa foarte mic (anual?)."
+  }
+]
