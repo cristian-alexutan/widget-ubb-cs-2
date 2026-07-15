@@ -1,20 +1,19 @@
 [
   {
-    "url": "https://devjob.ro/jobs/Xreacher-Python-Developer-for-AI-startup",
-    "title": "Python Developer for AI startup",
-    "company": "XREACHER",
+    "url": "https://www.principal33.com/job-offers/?personio_job_id=2510622",
+    "title": "Data Engineer",
+    "company": "PRINCIPAL33 S.R.L.",
     "location": [
-      "Romania"
+      "Cluj-Napoca",
+      "Târgu Mureș"
     ],
-    "salary": [
-      "6000-12000 RON"
-    ],
-    "date": "2026-07-03T12:48:38.979Z",
+    "salary": null,
+    "date": "2026-07-15T08:06:29.273Z",
     "status": "scraped",
     "f_tag": [
       "UBBFMI"
     ],
-    "matchPercentage": 65,
-    "reason": "Python is a core skill from FMI UBB curriculum. AI startup aligns with AI/ML courses (Artificial Intelligence, Machine Learning, Deep Learning). Backend development covered via Software Engineering and Web Programming. However, job description is extremely sparse - no specific frameworks, tools, or requirements listed. Salary data appears incorrect (6000-12000 RON/year = ~500-1000 RON/month is unrealistic). Limited information makes precise matching difficult."
+    "matchPercentage": 55,
+    "reason": "Job description lacks specific requirements. Data Engineering aligns with curriculum's Databases, Database Management Systems, Business Intelligence, and Python skills. However, typical Data Engineering roles often require Big Data technologies (Hadoop, Spark), ETL pipelines, and cloud platforms not explicitly covered in the curriculum."
   }
 ]
