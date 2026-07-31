@@ -1,18 +1,1 @@
-[
-  {
-    "url": "https://www.msg-systems.ro/en/careers/student-programs/#python-training",
-    "title": "🐍 Python Training",
-    "company": "MSG SYSTEMS ROMÂNIA SRL",
-    "location": [
-      "Cluj-Napoca"
-    ],
-    "salary": null,
-    "date": "2026-07-29T08:39:03.236Z",
-    "status": "scraped",
-    "f_tag": [
-      "UBBFMI"
-    ],
-    "matchPercentage": 85,
-    "reason": "Python Training is ideal for a student — covers Python (in curriculum), likely entry-level/no experience required, and located in Cluj-Napoca where UBB is based. 15% deducted due to lack of description to confirm exact requirements."
-  }
-]
+[]
