@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "url": "https://www.msg-systems.ro/en/careers/student-programs/#python-training",
+    "title": "🐍 Python Training",
+    "company": "MSG SYSTEMS ROMÂNIA SRL",
+    "location": [
+      "Cluj-Napoca"
+    ],
+    "salary": null,
+    "date": "2026-08-03T09:41:59.937Z",
+    "status": "scraped",
+    "f_tag": [
+      "UBBFMI"
+    ],
+    "matchPercentage": 90,
+    "reason": "Training de Python pentru student la informatică (python, programare, OOP, dezvoltare software) în Cluj-Napoca; fără descriere detaliată, dar titlul indică nivel de intrare potrivit pentru internship."
+  }
+]
