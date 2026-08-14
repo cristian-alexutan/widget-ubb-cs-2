@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "url": "https://sobis-ap.ro/cariere#careers-panel-ai-engineer",
+    "title": "AI Engineer",
+    "company": "SOBIS AP S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-08-14T07:22:44.591Z",
+    "status": "scraped",
+    "f_tag": [
+      "UBBFMI"
+    ],
+    "matchPercentage": 78,
+    "reason": "Potrivit pentru profilul FMI UBB: AI/ML, Deep Learning si NLP sunt in curriculum. Am fundamente solide de programare (C/C++/Java/Python) si experienta universitara in LLM-uri. Dezavantaje: fara detalii despre cerinte exacte, posibil nivel mid/senior cerut, iar locatia Romania poate insemna remote/multinationala unde cerintele sunt mai inalte decat nivelul meu junior/internship."
+  }
+]
