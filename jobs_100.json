@@ -1,18 +1,18 @@
 [
   {
-    "url": "https://sobis-ap.ro/cariere#careers-panel-ai-engineer",
-    "title": "AI Engineer",
-    "company": "SOBIS AP S.R.L.",
+    "url": "https://www.msg-systems.ro/en/careers/student-programs/#python-training",
+    "title": "🐍 Python Training",
+    "company": "MSG SYSTEMS ROMÂNIA SRL",
     "location": [
-      "România"
+      "Cluj-Napoca"
     ],
     "salary": null,
-    "date": "2026-08-14T07:22:44.591Z",
+    "date": "2026-08-17T06:52:28.547Z",
     "status": "scraped",
     "f_tag": [
       "UBBFMI"
     ],
-    "matchPercentage": 78,
-    "reason": "Potrivit pentru profilul FMI UBB: AI/ML, Deep Learning si NLP sunt in curriculum. Am fundamente solide de programare (C/C++/Java/Python) si experienta universitara in LLM-uri. Dezavantaje: fara detalii despre cerinte exacte, posibil nivel mid/senior cerut, iar locatia Romania poate insemna remote/multinationala unde cerintele sunt mai inalte decat nivelul meu junior/internship."
+    "matchPercentage": 75,
+    "reason": "Jobul este in Cluj-Napoca (acolo unde se afla UBB FMI) si implica Python, limbaj studiat in curriculum. Fara descriere detaliata, nu pot evalua nivelul exact de dificultate, dar un training program este potrivit pentru un student. Skills relevante: programare Python, programare fundamentala, OOP."
   }
 ]
