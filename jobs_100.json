@@ -7,12 +7,12 @@
       "Cluj-Napoca"
     ],
     "salary": null,
-    "date": "2026-08-19T06:40:45.854Z",
+    "date": "2026-08-21T06:43:21.347Z",
     "status": "scraped",
     "f_tag": [
       "UBBFMI"
     ],
-    "matchPercentage": 75,
-    "reason": "Python is in my curriculum (Programming fundamentals). Training position is suitable for students. No description available to assess full match, but Python skills and training format are good indicators."
+    "matchPercentage": 70,
+    "reason": "Program de training Python în Cluj-Napoca, potrivit pentru student junior — Python face parte din curriculum-ul FMI UBB (fundamentele programării, OOP, structuri de date). Lipsa descrierii reduce certitudinea, dar un training entry-level se potrivește cu profilul unui student care învață."
   }
 ]
